@@ -29,6 +29,12 @@ run programs in the 21s century. Use it.
 Also: be available for questions. It's impossible to write everything
 for everyone.
 
+*** Stand in the shoulders of giants
+
+Teach where to find great code and how to understand it. Don't
+reinvent the wheel, and show also how to use libraries, including the
+standard one. 
+
 *** Empower the user
 
 Don't try to overwhelm the user, empower her. Show she can do it, it's
