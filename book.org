@@ -55,6 +55,11 @@ Not the language. Show the existence of ecosystems that go from build
 tools through the community to IRC channels. Show how to look for them
 when in a new language neighborhood, and how to tap them for fixing
 problems, keep up to date in language and features. 
+*** Softwaree has a *free* in it
+
+So you should use only free implementations of any language, and also
+learn to create free software as an integral part of the learning
+process. Make free software, live with free software. 
 ** α - Why
 
 Why follow this new path of learning programming in a new way, instead
@@ -218,6 +223,12 @@ Putting a bunch of lines inside keys and what it all means.
 How to use more than one file in a project, and how to deal with
 projects with them. And obviously, how to work in a project
 
+*** Licenses
+ It's important that people knows what can and cannot be done with
+ your published source. This is codified in a series of
+ license. Before starting to use source control management and publish
+ your software in the open, it's interesting that you know how to
+ choose them and how to put them right there for everyone to see.
 *** Source control management.
 *** Project files
 *** Visual languages
