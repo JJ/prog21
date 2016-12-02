@@ -42,5 +42,6 @@ there's a single true paradigm, it's *functional programming*
 *** Ecosystems are the single unit of learning
 
 Not the language. Show the existence of ecosystems that go from build
-tools to IRC channels. Show how to look them up when in a new language
-neighborhood, and how to tap them. 
+tools through the community to IRC channels. Show how to look for them
+when in a new language neighborhood, and how to tap them for fixing
+problems, keep up to date in language and features. 
