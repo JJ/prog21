@@ -165,6 +165,10 @@ Sometimes all you have is binary...
 Mainly variables and things, but also some other important things like
 persistency, describing data, things like that. 
 
+*** Where I will be able to use my data
+
+Scope rules and what to do with them. Also what to avoid. 
+
 *** Describing storage
 
 Scope, naming conventions, types, restrictions... you have to put some
@@ -202,6 +206,9 @@ doing things.
 
 ** 4 - Functions and closures
 
+Putting a bunch of lines inside keys and what it all means. 
+
+*** Getting things in and out of 
 ** 5 - Putting stuff together
 
 ** 6 - Dealing with errors
