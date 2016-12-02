@@ -33,6 +33,10 @@ not daunting, don't condescend, don't "This is so easy even you can do
 it". Show stuff, step by step, without pre-assumptions on what the
 user knows or does not know.
 
+Everyone programs, and not everyone is a computer science major. So
+try to empower them to create stuff using computers by clearly
+explaining what everything is about and how to achieve things. 
+
 *** There is no true paradigm
 
 Everything shouldn't be procedural, or object oriented, or
@@ -45,3 +49,53 @@ Not the language. Show the existence of ecosystems that go from build
 tools through the community to IRC channels. Show how to look for them
 when in a new language neighborhood, and how to tap them for fixing
 problems, keep up to date in language and features. 
+** Motivation
+
+*** All languages do the same.
+
+They also look the the same in some cases.
+
+*** Languages have a finite lifespan.
+
+Even if you are committed to a language for life, it also
+changes. Even Perl5 becomes Perl6 and everything changes.
+
+*** Learning is lifelong
+
+So you get a head start if you know everything first.
+
+** Why
+
+Why follow this new path of learning programming in a new way, instead
+of sticking to the old adage of learn the easy things first, then
+other things later? If you've been a programmer you probably have your
+own bag of tricks to do this, but people arrive to somewhere that
+needs programming by the millions every single day. So this book (or
+whatever it eventually becomes) is written for them. 
+
+*** Go full stack
+
+... and full queue, and full log, and full datastore, and full
+everything. Don't draw yourself into a nanopart of a microservice. 
+
+*** Polyglot is the norm
+
+Even if you have a single full-service language like JavaScript, you
+will need to use other DSLs or data languages along the way. And
+JavaScript will eventually change or disappear for something cooler.
+
+*** Hit the ground running
+
+Land into a new project and adapt to it fast. Make easier to change
+careers.
+
+*** Program everything
+
+... And the kitchen sink too. With IoT, smartphones, in-game
+scripting, there are few things you can't program, inside or outside
+work. 
+
+*** Get the job done
+
+Find the toolchain that works the best for a particular project,
+including multilingual projects (which are going to 
