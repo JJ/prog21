@@ -159,3 +159,38 @@ How to deal with funny characters
 *** Conversions and casts
 
 Sometimes all you have is binary... 
+*** Rules and logic
+** 2 - Storing data
+
+Mainly variables and things, but also some other important things like
+persistency, describing data, things like that. 
+
+*** Describing storage
+
+Scope, naming conventions, types, restrictions... you have to put some
+thought before you even start to name a thing.
+
+*** Structuring data
+
+How to throw data together until they form... bigger data. 
+
+*** Data in the wild
+
+There are many data formats out there, from the simpler to the more
+complete. CSV to JSON. Maybe XML too. You should know this stuff.
+
+*** Data-bases
+
+The best base for your data. Working with very simple databases
+starting with sqlite. 
+
+*** How files are stored
+
+And how to store information in them. 
+
+** Classes and types
+
+
+
+
+
