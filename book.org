@@ -1,4 +1,5 @@
 * Programming in the 21st century
+
 ** א - Principles
 *** Do *real* tasks
 
@@ -38,6 +39,9 @@ user knows or does not know.
 Everyone programs, and not everyone is a computer science major. So
 try to empower them to create stuff using computers by clearly
 explaining what everything is about and how to achieve things. 
+
+Empower the user by giving real names to things. Nobody starting to
+program know what's an algorithm, or even what is source code. 
 
 *** There is no true paradigm
 
@@ -208,7 +212,11 @@ doing things.
 
 Putting a bunch of lines inside keys and what it all means. 
 
-*** Getting things in and out of 
+
+*** Getting things in and out of it
+*** State 
+*** Infinite calls
+
 ** 5 - Putting stuff together
 
 ** 6 - Dealing with errors
