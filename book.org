@@ -256,10 +256,18 @@ Sockets and UDP and XMPP and other things you might think of.
 
 ** 8 - Classes and types
 
+One paradigm at a time. With you: object oriented programming.
+
+(since this was impromptu, no breakdown)
+
 ** 9 - Preparing to run 
 
 
 Getting things ready to run. But first, run the tests!
+*** Continuous integration
+*** Compilers
+*** Build tools
+*** Transpilers, uglifiers and other things like that.
 
 ** 10 - Flying to the cloud
 
@@ -267,6 +275,15 @@ Deploying your program elsewhere so that it can actually do what it is
 wont to do. The cloud is someone else's computer, but it's also where
 you run things in the 21st century. 
 
+*** Provisioning
+*** Scaling
+*** Deploying
+*** Containers
+*** Ancillary programs
+
+Monitoring, running, stopping, all that.
+
+*** Continuous delivery.
 
 
 
