@@ -1,5 +1,5 @@
 * Programming in the 21st century
-** Principles
+** א - Principles
 *** Do *real* tasks
 
 Even if they are part of a larger thing.
@@ -49,27 +49,7 @@ Not the language. Show the existence of ecosystems that go from build
 tools through the community to IRC channels. Show how to look for them
 when in a new language neighborhood, and how to tap them for fixing
 problems, keep up to date in language and features. 
-** Motivation and audience
-
-This is addressed to instructors who want to make people approach
-programming in a new way, those people that actually want to do it,
-and also single-language programmers, who, in the grand scheme of
-things, are pretty much the same as no-language programmers. 
-
-*** All languages do the same.
-
-They also look the the same in some cases.
-
-*** Languages have a finite lifespan.
-
-Even if you are committed to a language for life, it also
-changes. Even Perl5 becomes Perl6 and everything changes.
-
-*** Learning is lifelong
-
-So you get a head start if you know everything first.
-
-** Why
+** α - Why
 
 Why follow this new path of learning programming in a new way, instead
 of sticking to the old adage of learn the easy things first, then
@@ -105,3 +85,50 @@ work.
 Find the toolchain that works the best for a particular project,
 including multilingual projects (which are going to 
 
+** ß - Motivation and audience
+
+This is addressed to instructors who want to make people approach
+programming in a new way, those people that actually want to do it,
+and also single-language programmers, who, in the grand scheme of
+things, are pretty much the same as no-language programmers. 
+
+*** All languages do the same.
+
+They also look the the same in some cases.
+
+*** Languages have a finite lifespan.
+
+Even if you are committed to a language for life, it also
+changes. Even Perl5 becomes Perl6 and everything changes.
+
+*** Learning is lifelong
+
+So you get a head start if you know everything first.
+
+
+
+** 0 - What
+
+What can be programmed? Why do you need programming? Programs are
+everywhere, and you can program
+
+*** Applications.
+*** Games
+*** Office applications
+
+From simple macros and formulas to more complicated *glue* scripts to
+connect them or update them.
+
+*** Toys
+
+Programmable robots, but that's just one example.
+
+*** Internet of things
+
+Most of them don't offer a lot of possibilities, but some can do
+pretty nifty stuff.
+
+*** Interactivity
+
+In user interfaces, in home improvement, even in
+wearables. Programming, and doing it yourself, is everywhere. 
