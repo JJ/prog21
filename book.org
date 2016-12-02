@@ -2,7 +2,9 @@
 ** א - Principles
 *** Do *real* tasks
 
-Even if they are part of a larger thing.
+Even if they are part of a larger thing. Do also things that are not
+programm-y, like looking at ancient texts or theater or art. In fact,
+probably art is the best thing you can do. 
 
 *** Show *real* code
 
@@ -132,3 +134,28 @@ pretty nifty stuff.
 
 In user interfaces, in home improvement, even in
 wearables. Programming, and doing it yourself, is everywhere. 
+
+** 1 - Expressions
+
+First approach to programming, and something you can do everywhere,
+from a spreadsheet cell to the command line. 
+
+*** Math
+
+*** REPLs
+
+Where to find them, what to do with them, how they help you do stuff.
+
+*** Other places to run stuff
+
+*** Regular expressions.
+
+What? They are expression. And they are regular.
+
+*** Unicode
+
+How to deal with funny characters
+
+*** Conversions and casts
+
+Sometimes all you have is binary... 
