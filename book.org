@@ -135,7 +135,7 @@ pretty nifty stuff.
 In user interfaces, in home improvement, even in
 wearables. Programming, and doing it yourself, is everywhere. 
 
-** 1 - Expressions
+** 1 - Doing stuff to data
 
 First approach to programming, and something you can do everywhere,
 from a spreadsheet cell to the command line. 
