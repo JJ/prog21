@@ -111,8 +111,6 @@ changes. Even Perl5 becomes Perl6 and everything changes.
 
 So you get a head start if you know everything first.
 
-
-
 ** 0 - What
 
 What can be programmed? Why do you need programming? Programs are
@@ -138,7 +136,6 @@ pretty nifty stuff.
 
 In user interfaces, in home improvement, even in
 wearables. Programming, and doing it yourself, is everywhere. 
-
 ** 1 - Doing stuff to data
 
 First approach to programming, and something you can do everywhere,
@@ -207,7 +204,6 @@ doing things.
 *** Repeating things
 *** Breaking the sequence
 
-
 ** 4 - Functions and closures
 
 Putting a bunch of lines inside keys and what it all means. 
@@ -215,13 +211,49 @@ Putting a bunch of lines inside keys and what it all means.
 
 *** Getting things in and out of it
 *** State 
-*** Infinite calls
+*** Infinite calls and how to get out of them. 
 
 ** 5 - Putting stuff together
 
+How to use more than one file in a project, and how to deal with
+projects with them. And obviously, how to work in a project
+
+*** Source control management.
+*** Project files
+*** Visual languages
+*** Comments
+*** Documentation 
+*** Modularization.
+*** Module repos 
+
+And the start of the ecosystem.
+
 ** 6 - Dealing with errors
 
+How to make a program work.
+
+*** Making yourself understood
+*** When it stops running: interpreting error messages
+
 ** 7 - Talking to the world
+
+It's about time we understand how to print something, although we have
+already done it. Let's do it more seriously.
+
+*** Using stuff from others out there: APIs
+*** Environment and what a program inherits
+
+It's always standard input and output, but not always you can use
+it. An introduction to object models.
+
+*** Filing and cabinets
+
+*** Security is all around us
+
+*** Connecting things to one another
+
+Sockets and UDP and XMPP and other things you might think of.
+
 ** 8 - Classes and types
 
 ** 9 - Preparing to run 
