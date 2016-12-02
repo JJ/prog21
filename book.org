@@ -1,0 +1,46 @@
+* Programming in the 21st century
+** Principles
+*** Do *real* tasks
+
+Even if they are part of a larger thing.
+
+*** Show *real* code
+
+Code that actually does something useful. Maybe part of a larger thing.
+
+*** Use *any* language
+
+Don't restrict yourself to a single language that can't do everything
+(not every language is Perl). Create examples for many languages.  
+
+*** Acknowledge the Internet
+
+The Internet is there. Use it for APIs, for storage, for *see
+also*. Your book is not going to be the only source for syntax, and
+it's always easy to look syntax up instead of browsing a book. 
+
+Also *web first*. Web is the single most used environment in the world
+of programming. Use it first. And *cloud first*. Cloud is where you
+run programs in the 21s century. Use it.
+
+Also: be available for questions. It's impossible to write everything
+for everyone.
+
+*** Empower the user
+
+Don't try to overwhelm the user, empower her. Show she can do it, it's
+not daunting, don't condescend, don't "This is so easy even you can do
+it". Show stuff, step by step, without pre-assumptions on what the
+user knows or does not know.
+
+*** There is no true paradigm
+
+Everything shouldn't be procedural, or object oriented, or
+concurrent. Everything should be all of them. And *functional*. If
+there's a single true paradigm, it's *functional programming* 
+
+*** Ecosystems are the single unit of learning
+
+Not the language. Show the existence of ecosystems that go from build
+tools to IRC channels. Show how to look them up when in a new language
+neighborhood, and how to tap them. 
