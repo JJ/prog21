@@ -188,7 +188,38 @@ starting with sqlite.
 
 And how to store information in them. 
 
-** Classes and types
+** 3 - The flow
+
+How to do things step by step. And how to do everything at the same
+time. And how to do it asynchronously. And all other possible ways of
+doing things.
+
+*** Sequences
+*** Events
+*** Repeating things
+*** Breaking the sequence
+
+
+** 4 - Functions and closures
+
+** 5 - Putting stuff together
+
+** 6 - Dealing with errors
+
+** 7 - Talking to the world
+** 8 - Classes and types
+
+** 9 - Preparing to run 
+
+
+Getting things ready to run. But first, run the tests!
+
+** 10 - Flying to the cloud
+
+Deploying your program elsewhere so that it can actually do what it is
+wont to do. The cloud is someone else's computer, but it's also where
+you run things in the 21st century. 
+
 
 
 
