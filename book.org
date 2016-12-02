@@ -49,7 +49,12 @@ Not the language. Show the existence of ecosystems that go from build
 tools through the community to IRC channels. Show how to look for them
 when in a new language neighborhood, and how to tap them for fixing
 problems, keep up to date in language and features. 
-** Motivation
+** Motivation and audience
+
+This is addressed to instructors who want to make people approach
+programming in a new way, those people that actually want to do it,
+and also single-language programmers, who, in the grand scheme of
+things, are pretty much the same as no-language programmers. 
 
 *** All languages do the same.
 
@@ -99,3 +104,4 @@ work.
 
 Find the toolchain that works the best for a particular project,
 including multilingual projects (which are going to 
+
