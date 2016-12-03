@@ -102,6 +102,13 @@ work.
 Find the toolchain that works the best for a particular project,
 including multilingual projects (which are going to 
 
+*** Avoid resistence to change
+
+In two senses: avoid programming in exactly the same way that you did
+when you learned your first programming language and also avoid
+waiting for 10 years before you commit to the new and shiny version of
+your favorite language, like Perl or Python.
+
 ** ß - Motivation and audience
 
 This is addressed to instructors who want to make people approach
